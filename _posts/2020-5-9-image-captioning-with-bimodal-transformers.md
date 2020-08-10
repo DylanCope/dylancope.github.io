@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pullquotes
+title:  Image Captioning with Bimodal Transformers
 categories: [Tutorial,Natural Language Processing,Computer Vision]
 excerpt: In this tutorial we use COCO captioned image data to build a model that produces natural language descriptions of given images.
 ---
