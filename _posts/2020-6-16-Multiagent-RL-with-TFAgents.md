@@ -4,9 +4,7 @@ title: Multi-Agent Reinforcement Learning with TF-Agents
 categories: [Tutorial, Reinforcement Learning]
 ---
 
-# Multi-Agent Reinforcement Learning with TF-Agents
-
-In this notebook we're going to be implementing reinforcement learning (RL) agents to play games against one another. Before reading this it is advised to be familiar with the [TF-Agents](https://github.com/tensorflow/agents) and Deep Q-Learning; [this tutorial](https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb) will bring you up to speed.
+In this tutorial we're going to be implementing reinforcement learning (RL) agents to play games against one another. Before reading this it is advised to be familiar with the [TF-Agents](https://github.com/tensorflow/agents) and Deep Q-Learning; [this tutorial](https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb) will bring you up to speed.
 
 ### Introduction
 
