@@ -85,7 +85,7 @@ The key error is in the following code snippet (from [this file](https://github.
 ```
 The `comparative` function takes two strings representing complex numbers and a third representing the comparative operator. Internally, for complex arguments `a + bi` and `x + iy`, and comparative operator `op`, it returns true if and only if `(a op b) and (b op y)`. Therefore the condition `comparative(z, '2500+2500i', '<')` is only true if the imaginary and real components of `z` are less than `2500`.
 
-In normal Mandelbrot rendering our terminal condition is based upon the magnitude of `z`, whereas in this situation the iteration stops when `z` enters into one of the two boxes  $[(2500, 2500), (\infty, \infty)]$ or $[(-2500, -2500), (-\infty, -\infty)]$.
+In normal Mandelbrot rendering our terminal condition is based upon the magnitude of `z`, whereas in this situation the iteration stops when `z` enters into one of the two boxes  `[(2500, 2500), (\infty, \infty)]` or `[(-2500, -2500), (-\infty, -\infty)]`.
 
 
 ```python
