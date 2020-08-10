@@ -4,9 +4,6 @@ title: Fractal Pillars and Zebras
 categories: [Maths, Fun]
 ---
 
-
-# Fractal Pillars and Zebras
-
 In [this post](https://www.reddit.com/r/Python/comments/e4js7g/an_error_in_my_code_makes_the_mandelbrot_set_look/?utm_medium=android_app&utm_source=share), Reddit user `u/FlyingCow313` shows an image that resulted from thier attempt to implement a Mandlebrot renderer. 
 
 <img src="https://preview.redd.it/y9qbirw5w1241.png?width=960&crop=smart&auto=webp&s=a3221afb618952aeee50371b7d33abe3db852dcc" width="500px"/>
