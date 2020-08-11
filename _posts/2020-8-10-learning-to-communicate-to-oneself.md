@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Learning to Communicate with Oneself Crucial for Artificial Intelligence?
+title: Self-Communication and Artificial Intelligence
 categories: [Musings, Philosophy, Artificial Intelligence]
 excerpt: It has been argued that communication is a key part of intelligence, and efforts have been made to develop AI systems that communicate, but these approaches are still in their infancy.
 ---
