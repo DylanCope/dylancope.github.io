@@ -3,7 +3,7 @@ layout: post
 title: Self-Communication, Meaning, and Artificial Intelligence
 categories: [Philosophy, Artificial Intelligence]
 excerpt: In his 1991 book, *Consciousness Explained*, Daniel Dennett sketches a hypothetical, "just-so" story for the evolution of the "internal voice" involving the progressive developement of cognitive capabilities via "communicative autostimulation". In this post we explore these ideas and see if there is anything that we can learn for enhacing autocurricula in multiagent artificial intelligence.
-image: https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communicate-to-oneself/self-information-seeking.png?raw=true
+image: https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communicate-to-oneself/new-information-flow.jpg?raw=true
 ---
 
 ### Communicative Autostimulation
