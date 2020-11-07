@@ -6,14 +6,46 @@
   font-size: 90%;
 }
 
+// code {
+//   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+//   color: #d8d8d8;
+// }
+
+/**
+ * Code formatting
+ */
+pre,
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
-  color: #d8d8d8;
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
 }
 
-.highlighter-rouge { 
-  background-color: #FAFAFA; 
-  color: #FF554A; 
+code {
+    font-family: 'Fira Code', monospace;
+    padding: 1px 5px;
+}
+
+@supports (font-variation-settings: normal) {
+  code { font-family: 'Fira Code VF', monospace; }
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+
+.highlighter-rouge {
+  background-color: #FAFAFA;
+  color: #FF554A;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
