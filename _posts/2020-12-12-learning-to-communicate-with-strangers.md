@@ -24,8 +24,10 @@ Compositionality is to do with how words can be arranged together in order to co
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/liVFy7ZO4OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-[![Video of OpenAI's Learned Communicating Agents](https://img.youtube.com/vi/liVFy7ZO4OA/0.jpg)](https://www.youtube.com/watch?v=liVFy7ZO4OA)
+<!-- [![Video of OpenAI's Learned Communicating Agents](https://img.youtube.com/vi/liVFy7ZO4OA/0.jpg)](https://www.youtube.com/watch?v=liVFy7ZO4OA) -->
 
+<video src="https://www.youtube.com/watch?v=liVFy7ZO4OA" controls="controls" style="max-width: 730px;">
+</video>
 
 ### Communicating with Strangers
 
