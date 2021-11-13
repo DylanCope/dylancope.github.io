@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autostimulation for Bootstrapping AI
+title: How "Self-Communication" May Bootstrap Cognition
 categories: [Philosophy, Artificial Intelligence]
 excerpt: In his 1991 book, *Consciousness Explained*, Daniel Dennett sketches a hypothetical, "just-so" story for the evolution of the "internal voice" involving the progressive developement of cognitive capabilities via "communicative autostimulation". In this post we explore these ideas and see if there is anything that we can learn for enhacing autocurricula in multiagent artificial intelligence.
 image: https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communicate-to-oneself/new-information-flow.jpg?raw=true
@@ -39,7 +39,6 @@ However, if we exit this thought experiment and examine real language we can see
 At any rate we have method for determining a "degree of meaning" for a communicative act, namely the amount of information it transmits in terms of the recieving agent's ability to make finer and finer discriminations in its environment. This then translates to two factors that define more direct or more stigmergic communication: the "persistence" of the act in the environment (how many opportunities are there for it to be observed), and the amount of meaning "carried with" in the persistent object. Ant pheromones dissapate, vocalisations propagate away at the speed of sound, and books deteriorate. But books and pheromones persist longer than instanteous vocalisations and carry more meaning to their interpreters.  
 
 ### Insights for AI
-
 
 Despite Dennett's sketch being fabricated, it at least presents a plausible mechanism by which an agent might gain capabilities. As AI developers, it is always a good strategy to open up as many such paths for our systems to become more intelligent. Many existing "learning to communicate" approaches in machine learning, such as [Foerster et al. (2016)](https://arxiv.org/abs/1605.06676), model the communicative acts in terms of a channel whereby one agent sends a message that the other recieves (i.e. direct communication). In other words, there is no chance for the kind of autostimulation that we have been discussing. However, there is autostimulation in the sense that these models are *recurrent neural networkds (RNNs)*, which means that at each timestep the agent can "send" activations, called *mental states*, to themselves in the next timesteps. These activations provide a flow of information from past observations to current actions. So if we already have autostimulation in this form, why should we expect "vocal" autostimulation to provide any benefit? Is this simply a case of over enthusiam for being inspired by biology? Maybe, but lets indulge anyways. Here is what communicative autostimulation might look like diagrammatically:
 
