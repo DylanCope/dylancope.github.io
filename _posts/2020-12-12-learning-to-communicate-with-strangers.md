@@ -41,9 +41,9 @@ Your browser does not support the video tag.
 
 WIP
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-with-Strangers/raw/main/figures/teacher_student_cartoon.png" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
-</p>
+<!-- </p> -->
 
 
 ### Channel Randomisation Methods
