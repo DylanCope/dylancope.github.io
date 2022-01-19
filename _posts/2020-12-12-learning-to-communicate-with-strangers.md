@@ -82,6 +82,12 @@ Firstly, for message mutation we compared the "zero-shot performance" (the perfo
 
 In this graph we see an orange line representing "self-play", which represents the performance reached when an agent was trained with message mutation at a particular level of message mutation probability. The blue line represents the performance when we paired two agents trained in the same manner, but in different training runs. 
 
+We can do the same for channel permutation, here the variable that we adjust along the x-axis is the size of the subset of symbols that we permute. In other words, if we only permute 2 symbols in a set of 5 symbols, 3 symbols are guaranteed to not be effected by the map.
+
+<p align="center">
+<img src="https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communication-with-strangers/permutation_subset_and_zs_coordination.png?raw=true" width="620px" display="block" margin-left="auto" margin-right="auto" class="center"/>
+</p>
+
 ### Citing This Work
 
 Cope, Dylan R. & Schoots, Nandi (2020), 'Learning to Communicate with Strangers via Channel Randomisation Methods', Emergent Communication Workshop at the 34th Conference on Neural Information Processing Systems
