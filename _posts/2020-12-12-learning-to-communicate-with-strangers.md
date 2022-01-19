@@ -26,7 +26,7 @@ Compositionality is to do with how words can be arranged together in order to co
 The following video show's Mordatch and Abbeel's work in action!
 
 <p align="center">
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/liVFy7ZO4OA" display="block" margin-left="auto" margin-right="auto" class="center"></iframe>
+<iframe width="640px" height="360px" src="https://www.youtube.com/embed/liVFy7ZO4OA" display="block" margin-left="auto" margin-right="auto" class="center"></iframe>
 </p>
 
 ### Communicating with Strangers
