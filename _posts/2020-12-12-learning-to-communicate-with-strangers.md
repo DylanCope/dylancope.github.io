@@ -23,7 +23,9 @@ A grounded language is one in which the meanings of words (communicated utteranc
 Compositionality is to do with how words can be arranged together in order to construct more complex communications. For instance, if I have words for "red-ball", "green-ball", and "go-to", I could _compose_ "go-to" with either of the ball words to construct a new and valid sentence.
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/liVFy7ZO4OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<p align="center">
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/liVFy7ZO4OA"></iframe>
+</p>
 
 <!-- <video width="560" height="315" controls>
   <source src="https://www.youtube.com/embed/liVFy7ZO4OA">
