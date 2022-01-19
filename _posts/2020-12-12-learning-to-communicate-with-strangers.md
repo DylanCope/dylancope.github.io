@@ -24,7 +24,7 @@ Compositionality is to do with how words can be arranged together in order to co
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/liVFy7ZO4OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 <p align="center">
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/liVFy7ZO4OA"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/liVFy7ZO4OA" display="block" margin-left="auto" margin-right="auto" class="center"></iframe>
 </p>
 
 <!-- <video width="560" height="315" controls>
@@ -41,9 +41,9 @@ Your browser does not support the video tag.
 
 WIP
 
-<!-- <p align="center"> -->
+<p align="center">
 <img src="https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-with-Strangers/raw/main/figures/teacher_student_cartoon.png" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
-<!-- </p> -->
+</p>
 
 
 ### Channel Randomisation Methods
