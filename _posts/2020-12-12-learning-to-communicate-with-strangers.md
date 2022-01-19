@@ -6,6 +6,10 @@ excerpt: Blog post about our research presented at the 4th Emergent Communicatio
 image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-with-Strangers/raw/main/figures/teacher_student_cartoon.png
 ---
 
+<p align="center">
+<img src="https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communication-with-strangers/taking_to_stranger.png?raw=true" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
+</p>
+
 ### Introduction
 
 In this post I am going to give a high-level overview of a paper that I wrote with my colleague [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) titled "Learning to Communication with Strangers via Channel Randomisation Methods". 
@@ -30,11 +34,6 @@ The following video show's Mordatch and Abbeel's work in action!
 </p>
 
 ### Communicating with Strangers
-
-
-<p align="center">
-<img src="https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communication-with-strangers/taking_to_stranger.png?raw=true" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
-</p>
 
 The usual set-up for emergent communication looks a lot like Mordatch and Abbeel's environment, and agents are controlled via a neural network where either either: (1) a single network is trained and reinstantiated multiple times per each agent (called *self-play*), or (2) unique networks trained are from scratch for each agent. In both these cases the training process will arbitrarily choose a communication protocol (think of this as the language that the agents communicate with) for the agents to use. A useful analogy can be made with human languages. English represents one way of organising the set of symbols in the Latin alphabet, but German is an alternative that works equally well. Similarly, on one run of training the agents to learn to communicate one semantics may be applied to the set of communication symbols, but in another run there is no reason for the same semantics to emerge. In fact, the analogy to human languages doesn't stress the point enough because English and German have much shared history, and thus shared semantics. For the AI agents in our experiments there is complete independence between different training runs.   
 
