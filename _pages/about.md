@@ -16,7 +16,13 @@ The second reason to study explanation is what is known as [the alignment proble
 
 Outside of my PhD research I am broadly interested in language and cognitive science. This has led me to studying the exciting field of _emergent communication_ in reinforcement learning, and to studying inductive biases for deep learning systems that could facilitate more robust behaviour by having systems explicitly mimick cognitive functions such as analogy-making and information retrieval. 
 
-### Publications
+## Teaching
+
+2021/22 Semester 2:
+
+* 6CCS3ML - Machine Learning
+
+## Publications
 
 Dylan Cope, Peter McBurney, 2021, _A Measure of Explanatory Effectiveness_, 1st International Workshop on Trusted Automated Decision-Making
 
