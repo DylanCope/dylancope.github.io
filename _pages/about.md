@@ -20,7 +20,7 @@ Outside of my PhD research I am broadly interested in language and cognitive sci
 
 2021/22 Semester 2:
 
-* 6CCS3ML - Machine Learning
+* 6CCS3ML - Machine Learning GTA
 
 ## Publications
 
