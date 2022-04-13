@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Home
-permalink: /home/
 ---
 
 ## PhD Research
