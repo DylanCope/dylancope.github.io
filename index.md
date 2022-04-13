@@ -23,12 +23,6 @@ _March 27, 2021:_ My paper "A Measure of Explanatory Effectiveness" written with
 
 _Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Randomisation Methods"](https://drive.google.com/file/d/1FaBSE8jcuf6hGIbbp34Dxu7jPjh0iJl0/view?usp=sharing) written with [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) was accepted to [the Emergent Communication Workshop at the Conference on Neural Information Processing Systems (EmeCom@NeurIPS2020)](https://sites.google.com/view/emecom2020/home). You can find the source code [on my GitHub](https://github.com/DylanCope/zero-shot-comm).
 
-## Teaching
-
-2021/22 Semester 2:
-
-* 6CCS3ML - Machine Learning GTA
-
 ## Publications
 
 Dylan Cope, Peter McBurney, 2022, _Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play_, the 5th Emergent Communication Workshop at the International Conference on Learning Representations (EmeCome@ICLR22)
@@ -36,6 +30,12 @@ Dylan Cope, Peter McBurney, 2022, _Joining the Conversation: Towards Language Ac
 Dylan Cope, Peter McBurney, 2021, _A Measure of Explanatory Effectiveness_, 1st International Workshop on Trusted Automated Decision-Making
 
 Dylan Cope, Nandi Schoots, 2020, _Learning to Communicate with Strangers via Channel Randomisation Methods_, 4th NeurIPS Workshop on Emergent Communication
+
+## Teaching
+
+2021/22 Semester 2:
+
+* 6CCS3ML - Machine Learning GTA
 
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1147-8010" href="https://orcid.org/0000-0003-1147-8010" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1147-8010</a></div>
