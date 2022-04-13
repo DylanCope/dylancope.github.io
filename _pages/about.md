@@ -32,6 +32,8 @@ _Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Ra
 
 ## Publications
 
+Dylan Cope, Peter McBurney, 2022, _Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play_, the 5th Emergent Communication Workshop at the International Conference on Learning Representations (EmeCome@ICLR22)
+
 Dylan Cope, Peter McBurney, 2021, _A Measure of Explanatory Effectiveness_, 1st International Workshop on Trusted Automated Decision-Making
 
 Dylan Cope, Nandi Schoots, 2020, _Learning to Communicate with Strangers via Channel Randomisation Methods_, 4th NeurIPS Workshop on Emergent Communication
