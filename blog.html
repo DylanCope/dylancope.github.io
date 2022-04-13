@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% for post in site.posts limit: 5 %}
+  <ul>
+    <li>{{post.title}} - {{post.date | date_to_string}}</li>
+  </ul>
+{% endfor %}
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
