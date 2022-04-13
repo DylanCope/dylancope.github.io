@@ -6,15 +6,23 @@ permalink: /about/
 
 ## PhD Research
 
-I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explcitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. To understand the research, lets first get a little meta: in this very paragraph I am attempting to explain my PhD to a "general audience". For all I know, you the reader may be another AI researcher or artist with no knowledge of AI (but hopefully a passing interest at least!). In order to make sure the most number of people reading this page can understand it I am having to make estimations about what you may or may not know, and try to efficiently get my point across without needing a book-length explanation (you can catch that in the PhD thesis itself).
-
-This brings us to the core question of my research: "How should an AI system construct an effective explanation for a given explainee (or set of explainees)?". However, the follow-up question is perhaps the more important one: "Why bother?". The answer to this second question lies primarily in two disturbing problems in AI. Firstly, the most recent state-of-the-art approaches to solving problems in AI are famously inscrutable. This family of approaches, called "deep learning", produce opaque, complex systems. Due to our lack of understanding regarding their internal processes these machines cannot be deployed into real-world situations in which they need to be held accountable. This ranges from critical safety situations such as medical control systems to simple regulatory requirements regarding the uses of people's data. These issues fall under the problem of "fairness, accountability, and transparency" (FAT) in AI. This demands not just explanations that satisfy engineers and researchers, but also ones that facilitate understanding for anyone who is effected by an AI system.
-
-The second reason to study explanation is what is known as [the alignment problem](https://www.amazon.co.uk/Alignment-Problem-Machine-Learning-Values/dp/0393635821) in AI. This problem is effectively an extension of the FAT problem to situations in which the AI system itself poses a safety concern. The alignment problem asks, "what happens as AI systems become evermore capable at solving problems?", and "how might we point such systems at actually solving our problems?". Once again, there is the need to understand some aspect of the AI system, in this case its goals, and thus the need for explanations.
+I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explcitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
 
 ## Other Interests
 
 Outside of my PhD research I am broadly interested in language and cognitive science. This has led me to studying the exciting field of _emergent communication_ in reinforcement learning, and to studying inductive biases for deep learning systems that could facilitate more robust behaviour by having systems explicitly mimick cognitive functions such as analogy-making and information retrieval. 
+
+## News
+
+_April 13, 2022:_ I am excited to announce that I will be joining Stuart Russell's group the [Center for Human Compatible AI](https://humancompatible.ai/) at U.C. Berkeley this summer for a four month internship! I will be working with [Justin Svegliato](https://justinsvegliato.com/) on a project in "AI metareasoning".
+
+_April 7, 2022:_ I have won a "Best Reviewer Award" for my work reviewing papers for [EmeCome@ICLR22](https://sites.google.com/view/emecom2022/home)! Thank you to the organisers for this recognition, and the gift of Fuji Sencha tea :)
+
+_April 1, 2022:_ My paper ["Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play"](https://openreview.net/forum?id=SLqgf7ZCQbq) written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [the Emergent Communication Workshop at the International Conference on Learning Representations (EmeCome@ICLR22)](https://sites.google.com/view/emecom2022/home). I will lead a discussion group on the topic of the paper at the workshop.
+
+_March 27, 2021:_ My paper "A Measure of Explanatory Effectiveness" written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [1st International Workshop on Trusted Automated Decision-Making](https://3drationality.com/TADM2021/). I gave a talk at the workshop on the paper.
+
+_Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Randomisation Methods"](https://drive.google.com/file/d/1FaBSE8jcuf6hGIbbp34Dxu7jPjh0iJl0/view?usp=sharing) written with [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) was accepted to [the Emergent Communication Workshop at the Conference on Neural Information Processing Systems (EmeCom@NeurIPS2020)](https://sites.google.com/view/emecom2020/home). You can find the source code [on my GitHub](https://github.com/DylanCope/zero-shot-comm).
 
 ## Teaching
 
