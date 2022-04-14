@@ -7,6 +7,12 @@ title: Home
 
 I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explcitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
 
+The following cartoon shows a set-up of multi-agent reinforcement learning (MARL) with communication:
+
+<p align="center">
+<img src="./assets/marl_communication.png" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
+<p align="center">
+
 ## Other Interests
 
 Outside of my PhD research I am broadly interested in language and cognitive science. This has led me to studying the exciting field of _emergent communication_ in reinforcement learning, and to studying inductive biases for deep learning systems that could facilitate more robust behaviour by having systems explicitly mimick cognitive functions such as analogy-making and information retrieval. 
