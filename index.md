@@ -15,9 +15,9 @@ Outside of my PhD research I am broadly interested in language and cognitive sci
 
 _April 13, 2022:_ I am excited to announce that I will be joining Stuart Russell's group the [Center for Human Compatible AI](https://humancompatible.ai/) at U.C. Berkeley this summer for a four month internship! I will be working with [Justin Svegliato](https://justinsvegliato.com/) on a project in "AI metareasoning".
 
-_April 7, 2022:_ I have won a "Best Reviewer Award" for my work reviewing papers for [EmeCome@ICLR22](https://sites.google.com/view/emecom2022/home)! Thank you to the organisers for this recognition, and the gift of Fuji Sencha tea :)
+_April 7, 2022:_ I have won a "Best Reviewer Award" for my work reviewing papers for [EmeCom@ICLR22](https://sites.google.com/view/emecom2022/home)! Thank you to the organisers for this recognition, and the gift of Fuji Sencha tea :)
 
-_April 1, 2022:_ My paper ["Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play"](https://openreview.net/forum?id=SLqgf7ZCQbq) written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [the Emergent Communication Workshop at the International Conference on Learning Representations (EmeCome@ICLR22)](https://sites.google.com/view/emecom2022/home). I will lead a discussion group on the topic of the paper at the workshop.
+_April 1, 2022:_ My paper ["Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play"](https://openreview.net/forum?id=SLqgf7ZCQbq) written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [the Emergent Communication Workshop at the International Conference on Learning Representations (EmeCom@ICLR22)](https://sites.google.com/view/emecom2022/home). I will lead a discussion group on the topic of the paper at the workshop.
 
 _March 27, 2021:_ My paper "A Measure of Explanatory Effectiveness" written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [1st International Workshop on Trusted Automated Decision-Making](https://3drationality.com/TADM2021/). I gave a talk at the workshop on the paper.
 
@@ -25,7 +25,7 @@ _Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Ra
 
 ## Publications
 
-Dylan Cope, Peter McBurney, 2022, _Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play_, the 5th Emergent Communication Workshop at the International Conference on Learning Representations (EmeCome@ICLR22)
+Dylan Cope, Peter McBurney, 2022, _Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play_, the 5th Emergent Communication Workshop at the International Conference on Learning Representations (EmeCom@ICLR22)
 
 Dylan Cope, Peter McBurney, 2021, _A Measure of Explanatory Effectiveness_, 1st International Workshop on Trusted Automated Decision-Making
 
