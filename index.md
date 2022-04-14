@@ -19,6 +19,8 @@ _April 7, 2022:_ I have won a "Best Reviewer Award" for my work reviewing papers
 
 _April 1, 2022:_ My paper ["Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play"](https://openreview.net/forum?id=SLqgf7ZCQbq) written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [the Emergent Communication Workshop at the International Conference on Learning Representations (EmeCom@ICLR22)](https://sites.google.com/view/emecom2022/home). I will lead a discussion group on the topic of the paper at the workshop.
 
+_July 22, 2021:_ My team has won the Safe and Trusted AI Hackathon! We analysed stop-and-search data from the London metropolitan police in terms of disproportity of stops for minority groups.
+
 _March 27, 2021:_ My paper "A Measure of Explanatory Effectiveness" written with my PhD supervisor [Peter McBurney](https://nms.kcl.ac.uk/peter.mcburney/) has been accepted to the [1st International Workshop on Trusted Automated Decision-Making](https://3drationality.com/TADM2021/). I gave a talk at the workshop on the paper.
 
 _Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Randomisation Methods"](https://drive.google.com/file/d/1FaBSE8jcuf6hGIbbp34Dxu7jPjh0iJl0/view?usp=sharing) written with [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) was accepted to [the Emergent Communication Workshop at the Conference on Neural Information Processing Systems (EmeCom@NeurIPS2020)](https://sites.google.com/view/emecom2020/home). You can find the source code [on my GitHub](https://github.com/DylanCope/zero-shot-comm).
