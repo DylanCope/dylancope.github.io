@@ -11,7 +11,7 @@ The following cartoon shows a set-up of multi-agent reinforcement learning (MARL
 
 <p align="center">
 <img src="./assets/marl_communication.png" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
-<p align="center">
+</p>
 
 ## Other Interests
 
