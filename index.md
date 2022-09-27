@@ -19,6 +19,8 @@ Outside of my PhD research I am broadly interested in language and cognitive sci
 
 ## News
 
+_September 22, 2022_ I am helping a group of fellow London-based PhD students to organise the [Safe and Trustworthy AI Workshop](https://www.doc.ic.ac.uk/~chs219/stai-workshop/) aimed at bringing together early-career researchers. Submit abstracts by the **28/09/2022**.
+
 _April 13, 2022:_ I am excited to announce that I will be joining Stuart Russell's group the [Center for Human Compatible AI](https://humancompatible.ai/) at U.C. Berkeley this summer for a four month internship! I will be working with [Justin Svegliato](https://justinsvegliato.com/) on a project in "AI metareasoning".
 
 _April 7, 2022:_ I have won a "Best Reviewer Award" for my work reviewing papers for [EmeCom@ICLR22](https://sites.google.com/view/emecom2022/home)! Thank you to the organisers for this recognition, and the gift of Fuji Sencha tea :)
