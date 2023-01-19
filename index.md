@@ -5,7 +5,7 @@ title: Home
 
 ## PhD Research
 
-I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explcitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
+I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explicitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
 
 The following cartoon shows a set-up of multi-agent reinforcement learning (MARL) with communication:
 
