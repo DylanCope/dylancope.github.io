@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning to Communication with Strangers
+title: Learning to Communicate with Strangers
 categories: [Research, Machine Learning]
 excerpt: Blog post about our research presented at the 4th Emergent Communication Workshop at NeurIPS 2020.
 image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-with-Strangers/raw/main/figures/teacher_student_cartoon.png
@@ -12,7 +12,7 @@ image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-w
 
 ### Introduction
 
-In this post I am going to give a high-level overview of a paper that I wrote with my colleague [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) titled "Learning to Communication with Strangers via Channel Randomisation Methods". 
+In this post I am going to give a high-level overview of a paper that I wrote with my colleague [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) titled "Learning to Communicate with Strangers via Channel Randomisation Methods". 
 This work was presented at the 4th Emergent Communication Workshop at NeurIPS 2020, so we will start this article with a quick overview of the nascent field of emergent communication. 
 The full paper can be found [here](https://sites.google.com/view/emecom2020/accepted-papers) alongside the other accepted papers at the workshop, and the source code for the project can be found on [this Github repository](https://github.com/DylanCope/zero-shot-comm).
 Citation information can be found at the bottom of this page. 
