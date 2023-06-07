@@ -21,8 +21,7 @@ Outside of my PhD research I am broadly interested in language and cognitive sci
 
 _June 6th, 2023:_ I will be at the CHAI Workshop on the 17th of June, 2023, presenting a poster on my work on applying Deep Reinforcement Learning to Tree Search, done in collaboration with Justin Svegliato and Stuart Russell.
 
-_May 5, 2023:_ My paper ["Real-time Evolution of Multicellularity with Artificial Gene Regulation
-"](https://arxiv.org/abs/2305.12249) has been accepted to the [2023 Conference on Artificial Life](https://2023.alife.org/) for an oral presentation and publication in the proceedings. The conference will be hosted at Hokkaido University on July 24th to July 28th, 2023.
+_May 5, 2023:_ My paper ["Real-time Evolution of Multicellularity with Artificial Gene Regulation"](https://arxiv.org/abs/2305.12249) has been accepted to the [2023 Conference on Artificial Life](https://2023.alife.org/) for an oral presentation and publication in the proceedings. The conference will be hosted at Hokkaido University on July 24th to July 28th, 2023.
 
 _May 4, 2023:_ Nandi Schoots presented our paper ["Low-Entropy Latent Variables Harm Out-of-Distribution Performance"](https://domaingen.github.io/accepted) at the International Conference on Learning Representations (ICLR) Domain Generalization Workshop. 
 
