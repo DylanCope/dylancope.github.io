@@ -41,6 +41,10 @@ _Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Ra
 
 ## Publications
 
+Dylan Cope, 2023, [_Real-time Evolution of Multicellularity with Artificial Gene Regulation_](https://arxiv.org/abs/2305.12249), Proceedings of the 2023 Conference on Artificial Life (ALIFE23), MIT Press
+
+Nandi Shoots, Dylan Cope, 2023, [_Low-Entropy Latent Variables Harm Out-of-Distribution Performance_](https://domaingen.github.io/accepted), International Conference on Learning Representations Domain Generalization Workshop (DomainGen@ICLR23)
+
 Dylan Cope, Peter McBurney, 2022, [_Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play_](https://openreview.net/forum?id=SLqgf7ZCQbq), the 5th Emergent Communication Workshop at the International Conference on Learning Representations (EmeCom@ICLR22)
 
 Dylan Cope, Peter McBurney, 2021, _A Measure of Explanatory Effectiveness_, 1st International Workshop on Trusted Automated Decision-Making
