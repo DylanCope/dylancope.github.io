@@ -5,7 +5,7 @@ title: Home
 
 ## PhD Research
 
-I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explicitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
+I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](humancompatible.ai). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explicitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
 
 The following cartoon shows a set-up of multi-agent reinforcement learning (MARL) with communication:
 
@@ -19,7 +19,14 @@ Outside of my PhD research I am broadly interested in language and cognitive sci
 
 ## News
 
-_September 22, 2022_ I am helping a group of fellow London-based PhD students to organise the [Safe and Trustworthy AI Workshop](https://www.doc.ic.ac.uk/~chs219/stai-workshop/) aimed at bringing together early-career researchers. Submit abstracts by the **28/09/2022**.
+_June 6th, 2023:_ I will be at the CHAI Workshop on the 17th of June, 2023, presenting a poster on my work on applying Deep Reinforcement Learning to Tree Search, done in collaboration with Justin Svegliato and Stuart Russell.
+
+_May 5, 2023:_ My paper ["Real-time Evolution of Multicellularity with Artificial Gene Regulation
+"](https://arxiv.org/abs/2305.12249) has been accepted to the [2023 Conference on Artificial Life](https://2023.alife.org/) for an oral presentation and publication in the proceedings. The conference will be hosted at Hokkaido University on July 24th to July 28th, 2023.
+
+_May 4, 2023:_ Nandi Schoots presented our paper ["Low-Entropy Latent Variables Harm Out-of-Distribution Performance"](https://domaingen.github.io/accepted) at the International Conference on Learning Representations (ICLR) Domain Generalization Workshop. 
+
+_September 22, 2022:_ I am helping a group of fellow London-based PhD students to organise the [Safe and Trustworthy AI Workshop](https://www.doc.ic.ac.uk/~chs219/stai-workshop/) on the 2nd of November, 2022, aimed at bringing together early-career researchers. Submit abstracts by the **28/09/2022**.
 
 _April 13, 2022:_ I am excited to announce that I will be joining Stuart Russell's group the [Center for Human Compatible AI](https://humancompatible.ai/) at U.C. Berkeley this summer for a four month internship! I will be working with [Justin Svegliato](https://justinsvegliato.com/) on a project in "AI metareasoning".
 
