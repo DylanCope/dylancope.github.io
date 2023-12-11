@@ -1,1 +1,21 @@
+---
+layout: post
+title: Simulating the Evolution of Multicellularity
+categories: [Research, Machine Learning]
+excerpt: Multicellularity is a remarkable form of complex organisation, and gene regulation is crucial to its evolution.
+image: https://github.com/DylanCope/ProtoEvo/blob/main/screenshots/feeding-close.png
+---
 
+<p align="center">
+<img src="https://github.com/DylanCope/ProtoEvo/blob/main/screenshots/feeding-close.png" width="600px" display="block" margin-left="auto" margin-right="auto" class="center"/>
+</p>
+
+### Introduction
+
+Evolution is the only process that we know of that can produce the wonderous complexities of the natural world.
+From ant colonies to nervous systems, from bee waggle-dances to human language.
+I have had a long standing interest in evolution, but it was intensified in early 2022 when I rewatched [Robert Sapolsky's Human Behavioural Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) lectures and read Neil Shubin's [_Some Assembly Required_](https://www.amazon.com/Some-Assembly-Required-Decoding-Billion/dp/1101871334).
+In particular, my renewed interest was focused on the role of _gene regulation_ in the evolution of complex multicellular systems.
+Multicellularity is an interesting form of cooperation between individuals, in which their very individuality is given up.
+But to coordinate this cooperative endeavour, cells take specialised roles in the organism.
+So I revisted a simulation I start in 2016, during my undergraduate.
