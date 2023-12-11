@@ -5,23 +5,53 @@ title: Home
 
 ## PhD Research
 
-I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](humancompatible.ai). My doctoral research is about framing "explanation" in the context of *multi-agent communication* so as to explicitly take into account the recipient of the explanation (who we call the *explainee*). This research is inherently interdisciplinary; notably involving philosophy, social science, and cognitive science. 
+I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](https://www.humancompatible.ai).
+My doctoral research is focused on studying language and communication within the context of _Multi-Agent Reinforcement Learning_ (MARL).
 
-The following cartoon shows a set-up of multi-agent reinforcement learning (MARL) with communication:
+In typical (single-agent) Reinforcement Learning (RL), an agent interacts with an environment through taking actions based on its observations.
+For example, imagine that the agent is a computer program playing a video game.
+The observations that it receives could be just like the ones a human player would see, e.g. an image of the game's screen.
+Similarly, the actions it could take would be the same as the human; this could correspond to pressing the arrow keys to move or the spacebar to jump.
+
+To train the agent to play the game, we give it rewards when it does something good, and penalties if it does something bad.
+We then use clever mathematics and algorithms to have it learn to maximise these rewards.
+
+The multi-agent setting extends this basic set-up to the analogous case of a multiplayer game, where many people connect to a centralised server to cooperate or compete on different problems. For games that require well-executed coordination, communication between players is essential.
+We can model this in the MARL framework by allowing agents to send discrete messages to one another at the same time that they take actions in the environment.
+The overall setup looks like the following diagram:
 
 <p align="center">
-<img src="./assets/marl_communication.png" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
+<img src="./assets/marl_communication.png" width="500px" display="block" margin-left="auto" margin-right="auto" class="center"/>
 </p>
+
+When we train a population of agents in this scenario, something quite interesting happens.
+At the beginning of training, we as programmers have not assigned any meaning to the messages that the agents can send.
+In contrast, with actions we have 'assigned meaning' in the sense that when the agent selection "action 0" we have mapped this to the "spacebar" action that a human would usually press.
+And the designers of the game have assigned the spacebar the "meaning" of a jump for the player's character, or something like that depending on the game.
+
+This means that the meaning of messages _emerges_ through the training process. Or in slightly over-anthropomorophic terms: the agents find for themselves a communication system that serves their goals.
+We call the area of studying investigating this processes _Emergent Communication_, and since the rise of deep learning for MARL it has had a renewed interest.
 
 ## Other Interests
 
-Outside of my PhD research I am broadly interested in language and cognitive science. This has led me to studying the exciting field of _emergent communication_ in reinforcement learning, and to studying inductive biases for deep learning systems that could facilitate more robust behaviour by having systems explicitly mimick cognitive functions such as analogy-making and information retrieval. 
+**Evolutionary Computation.** Evolution is the only process that we know of that can produce the wonderous complexities of the natural world.
+From ant colonies to nervous systems, from bee waggle-dances to human language.
+I have had a long standing interest in evolution, but it was intensified in early 2022 when I rewatched [Robert Sapolsky's Human Behavioural Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) lectures and read Neil Shubin's [_Some Assembly Required_](https://www.amazon.com/Some-Assembly-Required-Decoding-Billion/dp/1101871334).
+In particular, my renewed interest was focused on the role of _gene regulation_ in the evolution of complex multicellular systems.
+Multicellularity is an interesting form of cooperation between individuals, in which their very individuality is given up.
+But to coordinate this cooperative endeavour, cells take specialised roles in the organism.
+So I revisted a simulation I start in 2016, during my undergraduate.
+This side-project ended up becoming a lot more involved than I had original anticipated, and I created a [YouTube video](https://www.youtube.com/channel/UCNxxs-OEF_5xhM8iOX87NSg), wrote [a paper](https://direct.mit.edu/isal/proceedings/isal/35/77/116930) that I presented at ALIFE 2023, and started an Discord community of people interested in the project. You can also read more at this [blog post](https://dylancope.com/protoevo)!
+
+**Science of Deep Learning.**
 
 ## News
 
+_Aug 20, 2023:_ I presented my work with Justin Svegliato and Stuart Russell, ["Learning to Plan with Tree Search via Deep RL"](https://openreview.net/forum?id=IP5kPfDu3w) at the [Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ IJCAI 2023)](https://prl-theworkshop.github.io/prl2023-ijcai/) Workshop at IJCAI 2023!
+
 _June 6th, 2023:_ I will be at the CHAI Workshop on the 17th of June, 2023, presenting a poster on my work on applying Deep Reinforcement Learning to Tree Search, done in collaboration with Justin Svegliato and Stuart Russell.
 
-_May 5, 2023:_ My paper ["Real-time Evolution of Multicellularity with Artificial Gene Regulation"](https://arxiv.org/abs/2305.12249) has been accepted to the [2023 Conference on Artificial Life](https://2023.alife.org/) for an oral presentation and publication in the proceedings. The conference will be hosted at Hokkaido University on July 24th to July 28th, 2023.
+_May 5, 2023:_ My paper ["Real-time Evolution of Multicellularity with Artificial Gene Regulation"](https://direct.mit.edu/isal/proceedings/isal/35/77/116930) has been accepted to the [2023 Conference on Artificial Life](https://2023.alife.org/) for an oral presentation and publication in the proceedings. The conference will be hosted at Hokkaido University on July 24th to July 28th, 2023.
 
 _May 4, 2023:_ Nandi Schoots presented our paper ["Low-Entropy Latent Variables Harm Out-of-Distribution Performance"](https://domaingen.github.io/accepted) at the International Conference on Learning Representations (ICLR) Domain Generalization Workshop. 
 
