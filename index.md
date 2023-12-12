@@ -8,7 +8,12 @@ title: Home
 I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](https://www.humancompatible.ai).
 My doctoral research is focused on studying language and communication within the context of _Multi-Agent Reinforcement Learning_ (MARL).
 
-In typical (single-agent) Reinforcement Learning (RL), an agent interacts with an environment through taking actions based on its observations.
+**Overview.** A critical problem in Artificial Intelligence is creating computer agents that can collaborate as a member of a team. For many problems, communication is a vital part of a team's success. Yet, most treatments of language in AI focus on learning the statistical patterns of words (i.e. the _"language modelling"_ that underpins most AI chatbots). This is a far cry from the functional uses of language in everyday human cooperation. In this light, my research focuses on what I call the "Cooperative Language Acquisition Problem": here the task is to create an AI that learns the way a community uses language to accomplish some goal. Thereby the AI can join the community and help them achieve said goals."
+
+
+### Background: Reinforcement Learning and Emergent Communication
+
+In a typical (single-agent) Reinforcement Learning (RL) set-up, an agent interacts with an environment through taking actions based on its observations.
 For example, imagine that the agent is a computer program playing a video game.
 The observations that it receives could be just like the ones a human player would see, e.g. an image of the game's screen.
 Similarly, the actions it could take would be the same as the human; this could correspond to pressing the arrow keys to move or the spacebar to jump.
@@ -32,6 +37,17 @@ And the designers of the game have assigned the spacebar the "meaning" of a jump
 This means that the meaning of messages _emerges_ through the training process. Or in slightly over-anthropomorophic terms: the agents find for themselves a communication system that serves their goals.
 We call the area of studying investigating this processes _Emergent Communication_, and since the rise of deep learning for MARL it has had a renewed interest.
 
+### My Research: Cooperative Language Acquisition
+
+So with emergent communication we can create a population of agents that solve some task by developing their own communication "language".
+Studying the strategies and protolanguages that are developed is interesting in its own right, but an key issue here is that these languages are essentially private.
+It is very difficult to decode what the messages mean to the agents, and the agents cannot adapt their communication strategies to new interlocutors.
+
+Thus, my work aims to bridge the gap between language modelling - i.e. learning simply from observations of human language - and emergent communication.
+This is where I have posed the challenge of _Cooperative Language Acquisition Problems_, or CLAPs.
+In this setting, we are given a dataset of messages sent by a community of agents, actions that the agents took, and we know the problem that they are trying to solve.
+Our task then is to build an agent that can _joining in_ with this community to help achieve a shared goal. 
+
 ## Other Interests
 
 **Evolutionary Computation.** Evolution is the only process that we know of that can produce the wonderous complexities of the natural world.
@@ -43,9 +59,18 @@ But to coordinate this cooperative endeavour, cells take specialised roles in th
 So I revisted a simulation I start in 2016, during my undergraduate.
 This side-project ended up becoming a lot more involved than I had original anticipated, and I created a [YouTube video](https://www.youtube.com/channel/UCNxxs-OEF_5xhM8iOX87NSg), wrote [a paper](https://direct.mit.edu/isal/proceedings/isal/35/77/116930) that I presented at ALIFE 2023, and started an Discord community of people interested in the project. You can also read more at this [blog post](https://dylancope.com/protoevo)!
 
-**Science of Deep Learning.**
+**Science of Deep Learning.** Over the last decade, deep learning has emerged as one of the most powerful tools in building highly-capable AI systems.
+Yet, while we understand the principles used to derive the gradient descent algorithm that powers deep learning, we still have a relatively shallow understanding of the learned models.
+A fascinating branch of machine learning is in its infancy that aims to fix this, with various subdiscplines encompassing a new _science of deep learning_.
+This motivated me and my colleage, Nandi Schoots, to try to understand how [internal representations of features relate to a model's robustness to distributional shift](https://domaingen.github.io/accepted).
 
 ## News
+
+_Dec 12, 2023:_ Alongside Nandi Schoots and Murray Shanahan, I supervised Ole Jorgenson for his Masters project at Imperial College London.
+We continued the project and turned it into a [workshop paper ](https://arxiv.org/abs/2312.03813) that has been accepted to the [Human-Centric Representation Learning Workshop](https://hcrl-workshop.github.io/2024/index.html) at AAAI-24.
+Come check out the results in Language Model activation steering.
+
+_Dec 11, 2023:_ My paper "Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition" has been accepted to [Ad Hoc Teamwork Workshop](https://sites.google.com/view/ad-hoc-teamwork/home?authuser=0) at AAAI-24. I'll be in Vancouver at end of Feb 2024.
 
 _Aug 20, 2023:_ I presented my work with Justin Svegliato and Stuart Russell, ["Learning to Plan with Tree Search via Deep RL"](https://openreview.net/forum?id=IP5kPfDu3w) at the [Bridging the Gap Between AI Planning and Reinforcement Learning (PRL @ IJCAI 2023)](https://prl-theworkshop.github.io/prl2023-ijcai/) Workshop at IJCAI 2023!
 
