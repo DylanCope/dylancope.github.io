@@ -43,6 +43,10 @@ So with emergent communication we can create a population of agents that solve s
 Studying the strategies and protolanguages that are developed is interesting in its own right, but an key issue here is that these languages are essentially private.
 It is very difficult to decode what the messages mean to the agents, and the agents cannot adapt their communication strategies to new interlocutors.
 
+<p align="center">
+<img src="./assets/clap-cartoon.png" width="300px" display="block" margin-left="auto" margin-right="auto" class="center"/>
+</p>
+
 Thus, my work aims to bridge the gap between language modelling - i.e. learning simply from observations of human language - and emergent communication.
 This is where I have posed the challenge of _Cooperative Language Acquisition Problems_, or CLAPs.
 In this setting, we are given a dataset of messages sent by a community of agents, actions that the agents took, and we know the problem that they are trying to solve.
