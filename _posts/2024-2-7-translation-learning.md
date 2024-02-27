@@ -2,7 +2,7 @@
 layout: post
 title: Translation Learning for Cooperative Language Acquisition
 categories: [Research, Emergent Communication, Reinforcement Learning]
-excerpt: We propose a novel AI challenge called a Cooperative Language Acquisition Problem (CLAP) in which a 'joiner' agent learns from a dataset of interactions between agents in a target community. We propose and compare two methods for solving CLAPs: Imitation Learning (IL), and **Emergent Communication pretraining and Translation Learning** (ECTL) for solving CLAPs.
+excerpt: We propose a novel AI challenge called a Cooperative Language Acquisition Problem (CLAP) in which a 'joiner' agent learns from a dataset of interactions between agents in a target community. We propose and compare two methods for solving CLAPs; Imitation Learning (IL), and Emergent Communication pretraining and Translation Learning (ECTL) for solving CLAPs.
 ---
 
 [Paper](https://arxiv.org/abs/2402.16247) | [Slides](https://drive.google.com/file/d/1ATobmkk8MDDiV3zH7c3BHGgW9KURemvz/view?usp=drive_link) | Presented at the Workshop on [Ad Hoc Teamwork at AAAI-24](https://sites.google.com/view/ad-hoc-teamwork/home)
