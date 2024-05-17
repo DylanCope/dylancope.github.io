@@ -4,8 +4,6 @@ title: Publications
 permalink: /pubs/
 ---
 
-## Publications
-
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://arxiv.org/abs/2402.16247), Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
 
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://sites.google.com/view/ad-hoc-teamwork/home?authuser=0), The Ad Hoc Teamwork Workshop at the 38th Annual AAAI Conference on Artificial Intelligence (WAHT@AAAI-24)
