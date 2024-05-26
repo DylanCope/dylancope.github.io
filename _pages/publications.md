@@ -6,6 +6,8 @@ permalink: /pubs/
 
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://arxiv.org/abs/2402.16247), Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
 
+**Dylan Cope**, 2024, [_Mimicry and the Emergence of Cooperative Communication_](https://arxiv.org/abs/2305.12249), Proceedings of the 2024 Conference on Artificial Life (ALIFE24), MIT Press
+
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://sites.google.com/view/ad-hoc-teamwork/home?authuser=0), The Ad Hoc Teamwork Workshop at the 38th Annual AAAI Conference on Artificial Intelligence (WAHT@AAAI-24)
 
 Ole Jorgenson, **Dylan Cope**, Nandi Schoots, and Murray Shanahan, 2024, [_Improving Activation Steering in Language Models with Mean-Centring_](https://arxiv.org/abs/2312.03813), Human-Centric Representation Learning Workshop at the 38th Annual AAAI Conference on Artificial Intelligence (HCRL@AAAI-24)
