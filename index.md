@@ -66,16 +66,6 @@ Yet, while we understand the principles used to derive the gradient descent algo
 A fascinating branch of machine learning is in its infancy that aims to fix this, with various subdiscplines encompassing a new _science of deep learning_.
 This motivated me and my colleage, Nandi Schoots, to try to understand how [internal representations of features relate to a model's robustness to distributional shift](https://domaingen.github.io/accepted).
 
-## Teaching
-
-2021/22:
-
-* 6CCS3ML - Machine Learning GTA
-
-2022/23:
-
-* 6CCS3ML - Machine Learning GTA
-
 ---
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1147-8010" href="https://orcid.org/0000-0003-1147-8010" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1147-8010</a></div>
