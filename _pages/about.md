@@ -24,12 +24,6 @@ _March 27, 2021:_ My paper "A Measure of Explanatory Effectiveness" written with
 
 _Dec 31, 2020:_ My paper ["Learning to Communicate with Strangers via Channel Randomisation Methods"](https://drive.google.com/file/d/1FaBSE8jcuf6hGIbbp34Dxu7jPjh0iJl0/view?usp=sharing) written with [Nandi Schoots](https://safeandtrustedai.org/person/nandi-schoots/) was accepted to [the Emergent Communication Workshop at the Conference on Neural Information Processing Systems (EmeCom@NeurIPS2020)](https://sites.google.com/view/emecom2020/home). You can find the source code [on my GitHub](https://github.com/DylanCope/zero-shot-comm).
 
-## Teaching
-
-2021/22 Semester 2:
-
-* 6CCS3ML - Machine Learning GTA
-
 ## Publications
 
 Dylan Cope, Peter McBurney, 2022, _Joining the Conversation: Towards Language Acquisition for Ad Hoc Team Play_, the 5th Emergent Communication Workshop at the International Conference on Learning Representations (EmeCome@ICLR22)
