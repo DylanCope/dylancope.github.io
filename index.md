@@ -78,7 +78,7 @@ This side-project ended up becoming a lot more involved than I had original anti
 **Science of Deep Learning.** Over the last decade, deep learning has emerged as one of the most powerful tools in building highly-capable AI systems.
 Yet, while we understand the principles used to derive the gradient descent algorithm that powers deep learning, we still have a relatively shallow understanding of the learned models.
 A fascinating branch of machine learning is in its infancy that aims to fix this, with various subdiscplines encompassing a new _science of deep learning_.
-This motivated me and my colleage, Nandi Schoots, to try to understand how [internal representations of features relate to a model's robustness to distributional shift](https://domaingen.github.io/accepted).
+This motivated me and my colleague, Nandi Schoots, to try to understand how [internal representations of features relate to a model's robustness to distributional shift](https://domaingen.github.io/accepted).
 
 ---
 
