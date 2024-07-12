@@ -3,13 +3,27 @@ layout: page
 title: Home
 ---
 
-I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org). Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](https://www.humancompatible.ai).
+I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org).
+Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](https://www.humancompatible.ai).
 My doctoral research is focused on studying language and communication within the context of _Multi-Agent Reinforcement Learning_ (MARL).
+I am driven to this line of research by my view (adapted from others) that "intelligence" is a fundamentally social phenomenon, and the language/communication is the key capacity that enables human groups to achieve incredible things.
+More broadly, I am interested in how such systems came about naturally, and therefore I find myself thinking and reading a lot about evolutionary biology.
 
-**Overview.** A critical problem in Artificial Intelligence is creating computer agents that can collaborate as a member of a team. For many problems, communication is a vital part of a team's success. Yet, most treatments of language in AI focus on learning the statistical patterns of words (i.e. the _"language modelling"_ that underpins most AI chatbots). This is a far cry from the functional uses of language in everyday human cooperation. In this light, my research focuses on what I call the "Cooperative Language Acquisition Problem": here the task is to create an AI that learns the way a community uses language to accomplish some goal. Thereby the AI can join the community and help them achieve said goals."
+Yet, as philosophically interesting the questions arising from research are, I am also deeply concerned about the current and future impacts of emerging technologies.
+I would characterise my views as quite close to Brian Christian's, as outlined in [_The Alignment Problem_](https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821).
+Current ethical and political issues arises from increasingly competent AI systems are continuous with later, more catastrophic risks - and those later risks are much more speculative.
+These technologies have the capacity to concentrate power, deepen social divisions, and supercharge oppression, so collective effort is required to ensure this does not happen.
+
+### Doctoral Research
+
+**Overview.** A critical problem in Artificial Intelligence is creating computer agents that can collaborate as a member of a team.
+For many problems, communication is a vital part of a team's success. Yet, most treatments of language in AI focus on learning the statistical patterns of words (i.e. the _"language modelling"_ that underpins most AI chatbots).
+This is a far cry from the functional uses of language in everyday human cooperation.
+In this light, my research focuses on what I call the "Cooperative Language Acquisition Problem": here the task is to create an AI that learns the way a community uses language to accomplish some goal.
+Thereby the AI can join the community and help them achieve said goals."
 
 
-### Background: Reinforcement Learning and Emergent Communication
+**Background: Reinforcement Learning and Emergent Communication**
 
 In a typical (single-agent) Reinforcement Learning (RL) set-up, an agent interacts with an environment through taking actions based on its observations.
 For example, imagine that the agent is a computer program playing a video game.
@@ -35,7 +49,7 @@ And the designers of the game have assigned the spacebar the "meaning" of a jump
 This means that the meaning of messages _emerges_ through the training process. Or in slightly over-anthropomorophic terms: the agents find for themselves a communication system that serves their goals.
 We call the area of studying investigating this processes _Emergent Communication_, and since the rise of deep learning for MARL it has had a renewed interest.
 
-### My Research: Cooperative Language Acquisition
+### Cooperative Language Acquisition
 
 So with emergent communication we can create a population of agents that solve some task by developing their own communication "language".
 Studying the strategies and protolanguages that are developed is interesting in its own right, but an key issue here is that these languages are essentially private.
