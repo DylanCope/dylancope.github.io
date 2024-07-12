@@ -4,7 +4,11 @@ title: News
 permalink: /news/
 ---
 
+_Apr 16, 2024:_ My paper "Channel Randomisation Methods for Zero-Shot Communication" has been accepted to the **European Conference on Artificial Intelligence (ECAI)**. I look forward to presenting this work in October in Santiago de Compostela, Spain!
+
 _May 9, 2024:_ I have been accepted to attend the [_Cooperative AI Summer School 2024_](https://www.cooperativeai.com/summer-school/summer-school-2024), in Santa Cruz, CA, August 2024!
+
+_May 5, 2023:_ My paper "Mimicry and the Emergence of Cooperative Communication" has been accepted to the [2024 Conference on Artificial Life](https://2024.alife.org/) for an oral presentation and publication in the proceedings. The conference will be hosted at Copenhagen ITU. I look foward to presenting my research and meeting alifer friends :) 
 
 _Apr 16, 2024:_ My paper ["Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition"](https://dylancope.com/translation-learning/) has been accepted to the **International Joint Conference on Artificial Intelligence (IJCAI)**. I look forward to presenting this work in August in Jeju, South Korea!
 
