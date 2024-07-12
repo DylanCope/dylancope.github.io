@@ -4,6 +4,8 @@ title: Publications
 permalink: /pubs/
 ---
 
+**Dylan Cope** and Nandi Schoots, 2024, [_Channel Randomisation Methods for Zero-Shot Communication_](), Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-24)
+
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://arxiv.org/abs/2402.16247), Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
 
 **Dylan Cope**, 2024, [_Mimicry and the Emergence of Cooperative Communication_](https://arxiv.org/abs/2305.12249), Proceedings of the 2024 Conference on Artificial Life (ALIFE24), MIT Press
