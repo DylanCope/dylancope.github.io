@@ -19,8 +19,7 @@ These technologies have the capacity to concentrate power, deepen social divisio
 **Overview.** A critical problem in Artificial Intelligence is creating computer agents that can collaborate as a member of a team.
 For many problems, communication is a vital part of a team's success. Yet, most treatments of language in AI focus on learning the statistical patterns of words (i.e. the _"language modelling"_ that underpins most AI chatbots).
 This is a far cry from the functional uses of language in everyday human cooperation.
-In this light, my research focuses on what I call the "Cooperative Language Acquisition Problem": here the task is to create an AI that learns the way a community uses language to accomplish some goal.
-Thereby the AI can join the community and help them achieve said goals."
+In this light, my research focuses on what I call "Cooperative Language Acquisition Problems" where the aim is to create an AI that learns the way a community uses language to accomplish some goal.
 
 
 **Background: Reinforcement Learning and Emergent Communication**
