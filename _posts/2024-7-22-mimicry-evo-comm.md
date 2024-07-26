@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Mimicry and the Emergent Communication
+title: Mimicry and the Emergence of Communication
 categories: [Research, Emergent Communication, Reinforcement Learning, Evolutionary Computation]
 excerpt: Investigating how the capacity to mimic may bootstrap the emergence of communication beween cooperating agents.
 ---
 
 <p align=center>
-<a href="https://direct.mit.edu/isal/proceedings/isal2024/36/52/123460>Paper</a> | <a href="https://">Slides</a> | Published at the <a href="https://2024.alife.org/detailed_program.html">2024 Conference on Artificial Life</a>
+<a href="https://direct.mit.edu/isal/proceedings/isal2024/36/52/123460">Paper</a> | <a href="https://">Slides</a> | Published at the <a href="https://2024.alife.org/detailed_program.html">2024 Conference on Artificial Life</a>
 </p>
 
 **Abstract.** In many situations, communication between agents is a critical component of cooperative multi-agent systems, however, it can be difficult to learn or evolve.
