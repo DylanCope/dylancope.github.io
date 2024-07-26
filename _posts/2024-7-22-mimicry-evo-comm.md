@@ -6,7 +6,7 @@ excerpt: Investigating how the capacity to mimic may bootstrap the emergence of 
 ---
 
 <p align=center>
-<a href="https://direct.mit.edu/isal/proceedings/isal2024/36/52/123460">Paper</a> | <a href="https://">Slides</a> | Published at the <a href="https://2024.alife.org/detailed_program.html">2024 Conference on Artificial Life</a>
+<a href="https://direct.mit.edu/isal/proceedings/isal2024/36/52/123460">Paper</a> | <a href="https://drive.google.com/file/d/1P2Uvog9Km5-levV-h6Y3uhTp5leGjL58/view?usp=sharing">Slides</a> | Published at the <a href="https://2024.alife.org/detailed_program.html">2024 Conference on Artificial Life</a>
 </p>
 
 **Abstract.** In many situations, communication between agents is a critical component of cooperative multi-agent systems, however, it can be difficult to learn or evolve.
