@@ -8,6 +8,8 @@ image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-w
 
 [Link to Full ECAI-24 Paper.](https://ebooks.iospress.nl/volumearticle/70013?_gl=1*shk0we*_up*MQ..*_ga*MTEwNTYwMzk2LjE3Mjk2NDUwNDk.*_ga_6N3Q0141SM*MTcyOTY0NTA0OC4xLjEuMTcyOTY0NTA1Ni4wLjAuMA..)
 
+For a quick overview, see the [Poster](https://drive.google.com/file/d/1wA031qS41ZRsSifTUIE9Wj8Y5X14cFnB/view?usp=drivesdk).
+
 **Abstract.** When agents learn to communicate via self-play the result is typically brittle communication strategies that only work with agents encountered during training. To alleviate this and train agents that can communicate with agents outside of their training communities we introduce two training-time interventions that apply to the messages sent between agents. These methods are: (1) message mutation, where messages are randomly changed; and (2) channel permutation, where random permutations are applied to the message space. These proposals are tested using a simple two-player sequential referential game in which the agents are given the opportunity to establish communicative conventions within a single episode. After training multiple sets of agents we analyse the performance of these agents when they are matched with a ‘stranger’ from another training run, i.e. their zero-shot communication performance. We find that both message mutation and channel permutation positively influence performance, and we discuss their effects.
 
 
