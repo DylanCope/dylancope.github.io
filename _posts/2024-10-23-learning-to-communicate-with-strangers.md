@@ -6,6 +6,9 @@ excerpt: Blog post about our research presented on communicating with strangers.
 image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-with-Strangers/raw/main/figures/teacher_student_cartoon.png
 ---
 
+[Link to ECAI-24 Paper](https://ebooks.iospress.nl/volumearticle/70013?_gl=1*shk0we*_up*MQ..*_ga*MTEwNTYwMzk2LjE3Mjk2NDUwNDk.*_ga_6N3Q0141SM*MTcyOTY0NTA0OC4xLjEuMTcyOTY0NTA1Ni4wLjAuMA..)
+
+
 ```bibtex
 @inproceedings{cope2024channelcommunication,
   title     = {Channel Randomisation Methods for Zero-Shot Communication},
@@ -17,7 +20,6 @@ image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-w
   year      = {2024},
   month     = {10},
   note      = {Main Track},
-  url       = {https://ebooks.iospress.nl/volumearticle/70013?_gl=1*shk0we*_up*MQ..*_ga*MTEwNTYwMzk2LjE3Mjk2NDUwNDk.*_ga_6N3Q0141SM*MTcyOTY0NTA0OC4xLjEuMTcyOTY0NTA1Ni4wLjAuMA..},
 }
 ```
 
@@ -35,7 +37,7 @@ We will start this article with a quick overview of the nascent field of emergen
 The full paper can be found [here]([https://sites.google.com/view/emecom2020/accepted-papers](https://ebooks.iospress.nl/volumearticle/70013?_gl=1*shk0we*_up*MQ..*_ga*MTEwNTYwMzk2LjE3Mjk2NDUwNDk.*_ga_6N3Q0141SM*MTcyOTY0NTA0OC4xLjEuMTcyOTY0NTA1Ni4wLjAuMA..)) alongside the other accepted papers at the workshop, and the source code for the project can be found on [this Github repository](https://github.com/DylanCope/zero-shot-comm).
 Citation information can be found at the bottom of this page. 
 
-Additionally, you can watch a short talk I gave on this work in December 2020:
+Additionally, you can watch a short talk I gave on this work:
 
 <p align="center">
 <iframe width="640px" height="360px" src="https://www.youtube-nocookie.com/embed/51mwI0o6EOU" display="block" margin-left="auto" margin-right="auto" class="center"></iframe>
