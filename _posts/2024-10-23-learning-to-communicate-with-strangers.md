@@ -2,9 +2,27 @@
 layout: post
 title: Learning to Communicate with Strangers
 categories: [Research, Machine Learning]
-excerpt: Blog post about our research presented at the 4th Emergent Communication Workshop at NeurIPS 2020.
+excerpt: Blog post about our research presented on communicating with strangers.
 image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-with-Strangers/raw/main/figures/teacher_student_cartoon.png
 ---
+
+```bibtex
+@inproceedings{cope2024channelcommunication,
+  title     = {Channel Randomisation Methods for Zero-Shot Communication},
+  author    = {Cope, Dylan and McBurney, Peter},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {IOS Press},
+  pages     = {3620--3627},
+  year      = {2024},
+  month     = {10},
+  note      = {Main Track},
+  url       = {https://ebooks.iospress.nl/volumearticle/70013?_gl=1*shk0we*_up*MQ..*_ga*MTEwNTYwMzk2LjE3Mjk2NDUwNDk.*_ga_6N3Q0141SM*MTcyOTY0NTA0OC4xLjEuMTcyOTY0NTA1Ni4wLjAuMA..},
+}
+```
+
+
+An early version of this work was presented at the 4th Emergent Communication Workshop at NeurIPS 2020.
 
 <p align="center">
 <img src="https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communication-with-strangers/taking_to_stranger.png?raw=true" width="400px" display="block" margin-left="auto" margin-right="auto" class="center"/>
