@@ -115,10 +115,6 @@ We can do the same for channel permutation, here the variable that we adjust alo
 <img src="https://github.com/DylanCope/dylancope.github.io/blob/master/assets/learning-to-communication-with-strangers/permutation_subset_and_zs_coordination.png?raw=true" width="620px" display="block" margin-left="auto" margin-right="auto" class="center"/>
 </p>
 
-### Citing This Work
-
-Cope, Dylan R. & Schoots, Nandi (2020), 'Learning to Communicate with Strangers via Channel Randomisation Methods', Emergent Communication Workshop at the 34th Conference on Neural Information Processing Systems
-
 ### Acknowledgements
 
 This work was done at the UKRI Centre for Doctoral Studies in Safe and Trusted Artificial Intelligence.
