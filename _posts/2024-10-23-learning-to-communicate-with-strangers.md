@@ -15,9 +15,8 @@ image: https://github.com/DylanCope/LaTex-Presentation-Learning-to-Communicate-w
 ```bibtex
 @inproceedings{cope2024channelcommunication,
   title     = {Channel Randomisation Methods for Zero-Shot Communication},
-  author    = {Cope, Dylan and McBurney, Peter},
-  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
-               Artificial Intelligence, {IJCAI-24}},
+  author    = {Cope, Dylan and Schoots, Nandi},
+  booktitle = {Proceedings of the European Conference on Artificial Intelligence, {ECAI-24}},
   publisher = {IOS Press},
   pages     = {3620--3627},
   year      = {2024},
