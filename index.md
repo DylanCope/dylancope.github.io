@@ -3,8 +3,12 @@ layout: page
 title: Home
 ---
 
-I am a PhD student at King's College London and Imperial College London studying Computer Science in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org).
-Previously, I was a reserach intern at the [Center for Human-Compatible AI (CHAI)](https://www.humancompatible.ai).
+I am currently a [Postdoctoral Researcher at the Foerester Lab for AI Research (FLAIR)](https://foersterlab.com/) working on problems in multi-agent reinforcement learning and cooperative AI.
+The most up-to-date record of my publications can be found at my [Google scholar](https://scholar.google.com/citations?user=_PKVsiQAAAAJ&hl=en).
+If this work interests you, feel reach to reach out for possible collaborations!
+
+I completed my PhD in Computer Science at King's College London in the [Safe and Trusted AI Centre for Doctoral Training](https://safeandtrustedai.org).
+Previously, I was a research intern at the [Center for Human-Compatible AI (CHAI)](https://www.humancompatible.ai).
 My doctoral research is focused on studying language and communication within the context of _Multi-Agent Reinforcement Learning_ (MARL).
 I am driven to this line of research by my view (adapted from others) that "intelligence" is a fundamentally social phenomenon, and the language/communication is the key capacity that enables human groups to achieve incredible things.
 More broadly, I am interested in how such systems came about naturally, and therefore I find myself thinking and reading a lot about evolutionary biology.
