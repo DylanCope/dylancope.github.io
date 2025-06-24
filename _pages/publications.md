@@ -4,11 +4,16 @@ title: Publications
 permalink: /pubs/
 ---
 
+The most up-to-date record of my publications can be found at my [Google scholar](https://scholar.google.com/citations?user=_PKVsiQAAAAJ&hl=en)
+Last update: June 2025.
+
 **Dylan Cope** and Nandi Schoots, 2024, [_Channel Randomisation Methods for Zero-Shot Communication_](), Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-24)
 
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://arxiv.org/abs/2402.16247), Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)
 
 **Dylan Cope**, 2024, [_Mimicry and the Emergence of Cooperative Communication_](https://arxiv.org/abs/2305.12249), Proceedings of the 2024 Conference on Artificial Life (ALIFE24), MIT Press
+
+Yohan Mathew, Ollie Matthews, Robert McCarthy, Joan Velja, Christian Schroeder de Witt, **Dylan Cope** & Nandi Schoots, 2024, [_Hidden in Plain Text: Emergence \& Mitigation of Steganographic Collusion in LLMs_](https://arxiv.org/abs/2410.03768), Safe Generative AI Workshop @ NeurIPS 2024
 
 **Dylan Cope** and Peter McBurney, 2024, [_Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition_](https://sites.google.com/view/ad-hoc-teamwork/home?authuser=0), The Ad Hoc Teamwork Workshop at the 38th Annual AAAI Conference on Artificial Intelligence (WAHT@AAAI-24)
 
