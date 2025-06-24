@@ -4,7 +4,8 @@ title: Publications
 permalink: /pubs/
 ---
 
-The most up-to-date record of my publications can be found at my [Google scholar](https://scholar.google.com/citations?user=_PKVsiQAAAAJ&hl=en)
+The most up-to-date record of my publications can be found at my [Google scholar](https://scholar.google.com/citations?user=_PKVsiQAAAAJ&hl=en).
+
 Last update: June 2025.
 
 **Dylan Cope** and Nandi Schoots, 2024, [_Channel Randomisation Methods for Zero-Shot Communication_](), Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-24)
