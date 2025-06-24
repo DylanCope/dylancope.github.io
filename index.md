@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-I am currently a [Postdoctoral Researcher at the Foerester Lab for AI Research (FLAIR)](https://foersterlab.com/) working on problems in multi-agent reinforcement learning and cooperative AI.
+I am currently a Postdoctoral Researcher at the University of Oxford's [Foerester Lab for AI Research (FLAIR)](https://foersterlab.com/), working on problems in multi-agent reinforcement learning and cooperative AI.
 The most up-to-date record of my publications can be found at my [Google scholar](https://scholar.google.com/citations?user=_PKVsiQAAAAJ&hl=en).
 If this work interests you, feel reach to reach out for possible collaborations!
 
